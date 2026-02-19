@@ -1,3 +1,2 @@
-"custom_branding_icon": "original",
 "music_hide_navigation_bar_samples_button": true,
 "music_hide_notification_button": true
