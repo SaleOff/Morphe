@@ -58,7 +58,9 @@
 "settings_search_history": false,
 "shorts_autoplay_background": false,
 "shorts_disable_background_playback": true,
-"spoof_video_streams_player_js_hash": "9f4cc5e4",
+"spoof_video_streams_client_type": "android_vr_1_64",
+"spoof_video_streams_player_js_variant": "phone",
+"spoof_video_streams_stats_for_nerds": false,
 "tap_to_seek": true,
 "video_quality_default_mobile": 1080,
 "video_quality_default_wifi": 1080,
@@ -66,4 +68,4 @@
 "sb_enabled": false,
 "sb_toast_on_connection_error": false,
 "sb_toast_on_skip": false,
-"sb_track_skip_count": false
+"sb_track_skip_count": false,
