@@ -2,4 +2,5 @@
 "music_hide_navigation_bar_samples_button": true,
 "music_hide_notification_button": true,
 "settings_search_history": false,
-"spoof_video_streams_player_js_hash": "74edf1a3"
+"spoof_video_streams_client_type": "android_vr_1_64",
+"spoof_video_streams_player_js_hash_value": "1ebf2aa6",
