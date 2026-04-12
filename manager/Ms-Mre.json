@@ -1,0 +1,38 @@
+{
+    "bundleUid": 0,
+    "bundleName": "Morphe Patches",
+    "exportDate": "2026-04-24T21:47:38.537421",
+    "selections": {
+        "com.google.android.apps.youtube.music": [
+            "Bypass certificate checks",
+            "Change package name",
+            "Custom branding",
+            "Disable DRC audio",
+            "Enable exclusive audio playback",
+            "Force original audio",
+            "GmsCore support",
+            "Hide ads",
+            "Hide buttons",
+            "Hide category bar",
+            "Hide music video ads",
+            "Miniplayer previous and next buttons",
+            "Navigation bar",
+            "Permanent repeat",
+            "Remove background playback restrictions",
+            "Sanitize sharing links",
+            "Spoof video streams",
+            "Track crossfade"
+        ]
+    },
+    "options": {
+        "com.google.android.apps.youtube.music": {
+            "Change package name": {
+                "packageName": "\"com.google.ios.youtube.music\""
+            },
+            "Custom branding": {
+                "customIcon": "\"/storage/emulated/0/Download/YT-Music\"",
+                "customName": "\"Spotify\""
+            }
+        }
+    }
+}

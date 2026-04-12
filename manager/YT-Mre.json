@@ -1,0 +1,65 @@
+{
+    "bundleUid": 0,
+    "bundleName": "Morphe Patches",
+    "exportDate": "2026-04-24T21:47:41.495472",
+    "selections": {
+        "com.google.android.youtube": [
+            "Ambient mode",
+            "Bypass URL redirects",
+            "Captions",
+            "Change form factor",
+            "Change package name",
+            "Change start page",
+            "Custom branding",
+            "Custom player overlay opacity",
+            "Disable DRC audio",
+            "Disable Shorts resuming on startup",
+            "Disable haptic feedback",
+            "Disable layout updates",
+            "Disable player popup panels",
+            "Disable video codecs",
+            "Force original audio",
+            "GmsCore support",
+            "Hide Shorts components",
+            "Hide ads",
+            "Hide autoplay preview",
+            "Hide end screen cards",
+            "Hide end screen suggested video",
+            "Hide info cards",
+            "Hide layout components",
+            "Hide player flyout menu components",
+            "Hide player overlay buttons",
+            "Hide related video overlay",
+            "Hide related videos",
+            "Hide video action buttons",
+            "Loop video",
+            "Miniplayer",
+            "Navigation bar",
+            "Open links externally",
+            "Open videos fullscreen",
+            "Override YouTube Music buttons",
+            "Playback speed",
+            "Remove background playback restrictions",
+            "Sanitize sharing links",
+            "Seekbar",
+            "Spoof video streams",
+            "Video ads",
+            "Video quality"
+        ]
+    },
+    "options": {
+        "com.google.android.youtube": {
+            "Change package name": {
+                "packageName": "\"com.google.ios.youtube\""
+            },
+            "Custom branding": {
+                "customIcon": "\"/storage/emulated/0/Download/YouTube\"",
+                "customName": "\"YouClip\""
+            },
+            "Hide Shorts components": {
+                "hideShortsAppShortcut": "true",
+                "hideShortsWidget": "true"
+            }
+        }
+    }
+}

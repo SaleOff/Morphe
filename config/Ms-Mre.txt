@@ -1,0 +1,6 @@
+"music_crossfade_enabled": true,
+"music_hide_history_button": true,
+"music_hide_navigation_bar_samples_button": true,
+"music_hide_notification_button": true,
+"settings_search_history": false,
+"spoof_video_streams_client_type": "android_vr_1_64",
