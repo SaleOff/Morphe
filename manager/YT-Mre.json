@@ -1,7 +1,7 @@
 {
     "bundleUid": 0,
     "bundleName": "Morphe Patches",
-    "exportDate": "2026-03-15T20:47:43.825535",
+    "exportDate": "2026-04-12T10:22:25.808895",
     "selections": {
         "com.google.android.youtube": [
             "Ambient mode",
@@ -27,7 +27,7 @@
             "Hide end screen suggested video",
             "Hide info cards",
             "Hide layout components",
-            "Hide player flyout menu items",
+            "Hide player flyout menu components",
             "Hide player overlay buttons",
             "Hide related video overlay",
             "Hide related videos",
@@ -41,6 +41,7 @@
             "Remove background playback restrictions",
             "Sanitize sharing links",
             "Seekbar",
+            "Spoof video streams",
             "Video ads",
             "Video quality"
         ]

@@ -1,7 +1,7 @@
 {
     "bundleUid": 0,
     "bundleName": "Morphe Patches",
-    "exportDate": "2026-03-15T20:47:39.504582",
+    "exportDate": "2026-04-12T10:22:22.207645",
     "selections": {
         "com.google.android.apps.youtube.music": [
             "Bypass certificate checks",
@@ -15,10 +15,12 @@
             "Hide buttons",
             "Hide category bar",
             "Hide music video ads",
+            "Miniplayer previous and next buttons",
             "Navigation bar",
             "Permanent repeat",
             "Remove background playback restrictions",
-            "Sanitize sharing links"
+            "Sanitize sharing links",
+            "Spoof video streams"
         ]
     },
     "options": {
